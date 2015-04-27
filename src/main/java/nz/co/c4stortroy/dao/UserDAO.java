@@ -5,7 +5,7 @@ import java.util.Map;
 
 import nz.co.c4stortroy.manager.User;
 
-public class UsuarioDAO {
+public class UserDAO {
 
 	private final static Map<String, User> USERS = new HashMap<>();
 	static {
